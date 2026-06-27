@@ -1,7 +1,7 @@
 
 # Conteúdo do README
 readme_content = """# Olá 👋, sou Wellington
-### Sou um Analista de Dados e Especialista em Inteligência Artificial
+### Sou um Cientista de Dados e Especialista em Inteligência Artificial
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lelolima&label=Profile%20views&color=0e75b6&style=flat)
 
