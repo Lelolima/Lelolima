@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 190" width="840" height="190" role="img" aria-label="Wellington de Lima Catarina - AI Engineering, LLM Applications, Python, Computer Vision, Intelligent Automation">
+  <style>
+    .name { font: 600 38px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #2f81f7; }
+    .role { font: 500 19px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #8b949e; opacity: 0; animation: cycle 15s infinite; }
+    .r2 { animation-delay: 3s; }
+    .r3 { animation-delay: 6s; }
+    .r4 { animation-delay: 9s; }
+    .r5 { animation-delay: 12s; }
+    .tag { font: 400 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #8b949e; }
+    .line { stroke: #2f81f7; stroke-width: 2; stroke-linecap: round; stroke-dasharray: 300; stroke-dashoffset: 300; animation: draw 1.8s ease-out forwards; }
+    .dot { fill: #3fb950; animation: pulse 2s ease-in-out infinite; }
+    @keyframes cycle { 0% { opacity: 0; } 3% { opacity: 1; } 17% { opacity: 1; } 20% { opacity: 0; } 100% { opacity: 0; } }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes pulse { 0%, 100% { opacity: 0.3; } 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) {
+      .role { animation: none; }
+      .r1 { opacity: 1; }
+      .line { animation: none; stroke-dashoffset: 0; }
+      .dot { animation: none; }
+    }
+  </style>
+  <text class="name" x="420" y="72" text-anchor="middle">Wellington de Lima Catarina</text>
+  <line class="line" x1="270" y1="96" x2="570" y2="96" />
+  <text class="role r1" x="420" y="134" text-anchor="middle">&gt; AI Engineering</text>
+  <text class="role r2" x="420" y="134" text-anchor="middle">&gt; LLM Applications and Agent Orchestration</text>
+  <text class="role r3" x="420" y="134" text-anchor="middle">&gt; Python, FastAPI and Backend Systems</text>
+  <text class="role r4" x="420" y="134" text-anchor="middle">&gt; Computer Vision</text>
+  <text class="role r5" x="420" y="134" text-anchor="middle">&gt; Intelligent Automation</text>
+  <circle class="dot" cx="296" cy="167" r="4" />
+  <text class="tag" x="428" y="172" text-anchor="middle">building reliable, testable AI systems</text>
+</svg>
