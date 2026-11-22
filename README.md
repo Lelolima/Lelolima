@@ -84,7 +84,7 @@ Each project opens to show the approach, stack, maturity and where to verify it.
 | **Approach** | An LLM turns the goal into an action plan; controllers execute it, with encryption and audit-logging utilities. |
 | **Stack** | Python · Playwright · pywinauto · Anthropic / OpenAI / Ollama clients · Fernet, bcrypt |
 | **Maturity** | Prototype. Core modules implemented; vision and web dashboard are roadmap items. |
-| **Evidence** | [Code](https://github.com/Lelolima/Automation-Computer) · [14 unit tests](https://github.com/Lelolima/Automation-Computer/tree/master/tests) · [CI workflow definition](https://github.com/Lelolima/Automation-Computer/blob/master/.github/workflows/ci.yml) |
+| **Evidence** | [Code](https://github.com/Lelolima/Automation-Computer) · [Tests](https://github.com/Lelolima/Automation-Computer/tree/master/tests) · [CI workflow definition](https://github.com/Lelolima/Automation-Computer/blob/master/.github/workflows/ci.yml) |
 
 </details>
 
@@ -98,7 +98,7 @@ Each project opens to show the approach, stack, maturity and where to verify it.
 | **Approach** | Detection, tracking, behaviour classification and weight estimation, served through an API. |
 | **Stack** | Python · Ultralytics YOLO · PyTorch · OpenCV · FastAPI · Docker |
 | **Maturity** | Prototype. Runs in a simulation mode when model weights are absent; no trained weights or benchmark results are published yet. |
-| **Evidence** | [Code](https://github.com/Lelolima/AgroVision-AI) · [7 tests](https://github.com/Lelolima/AgroVision-AI/blob/main/tests/test_api.py) |
+| **Evidence** | [Code](https://github.com/Lelolima/AgroVision-AI) · [Tests](https://github.com/Lelolima/AgroVision-AI/tree/main/tests) · [CI workflow definition](https://github.com/Lelolima/AgroVision-AI/blob/main/.github/workflows/ci.yml) |
 
 </details>
 
@@ -112,7 +112,7 @@ Each project opens to show the approach, stack, maturity and where to verify it.
 | **Approach** | Separate data loading, validation, processing and visualisation layers. |
 | **Stack** | Python · Plotly Dash · pandas · Docker |
 | **Maturity** | Working prototype on seeded synthetic data; Ruff and mypy configured. |
-| **Evidence** | [Code](https://github.com/Lelolima/Dashboard-de-log-stica-feito-em-Python) · [25 tests](https://github.com/Lelolima/Dashboard-de-log-stica-feito-em-Python/tree/main/tests) · [CI workflow definition](https://github.com/Lelolima/Dashboard-de-log-stica-feito-em-Python/blob/main/.github/workflows/ci.yml) |
+| **Evidence** | [Code](https://github.com/Lelolima/Dashboard-de-log-stica-feito-em-Python) · [Tests](https://github.com/Lelolima/Dashboard-de-log-stica-feito-em-Python/tree/main/tests) · [CI workflow definition](https://github.com/Lelolima/Dashboard-de-log-stica-feito-em-Python/blob/main/.github/workflows/ci.yml) |
 
 </details>
 
